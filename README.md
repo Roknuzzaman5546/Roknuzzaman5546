@@ -1,9 +1,9 @@
-#      Hey 👋, I'm Roknuzzaman
+#      Hey There👋I'm Roknuzzaman
 ![alt text](https://raw.githubusercontent.com/Roknuzzaman5546/Roknuzzaman5546/main/Images/Cover.jpg)
 
 ## A passionate frontend developer from Bangladesh
 
-- 🌱 I’m currently learning ...PHP,Express.js
+- 🌱 I’m currently learning ...PHP,Python
 - 📫 How to reach me: ...roknuzzamansojib78@gmail.com
 - ⚡ Fun fact: ...I love travel & coding
 
