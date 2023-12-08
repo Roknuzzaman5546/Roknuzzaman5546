@@ -8,7 +8,7 @@
 - ⚡ Fun fact: ...I love travel & coding
 
 ## Connect with me:
-[![My Skills](https://skillicons.dev/icons?i=twitter,linkedin,instagram)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=twitter,linkedin,instagram)](https://twitter.com/Roknuzzaman5546,linkedin.com/in/roknuzzaman-sojib-b794552a3,https://www.instagram.com/roknujjamansajib/)
 
 ## Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,mongo,nextjs,firebase,figma,nodejs,bootstrap,tailwind,expressjs)](https://skillicons.dev)
