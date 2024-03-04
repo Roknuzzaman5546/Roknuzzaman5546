@@ -3,7 +3,7 @@
 
 ## A passionate frontend developer from Bangladesh
 
-- 🌱 I’m currently learning ...PHP,Python
+- 🌱 I’m currently learning ...next.js,Python
 - 📫 How to reach me: ...roknuzzamansojib78@gmail.com
 - ⚡ Fun fact: ...I love travel & coding
 
