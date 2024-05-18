@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/Roknuzzaman5546/Roknuzzaman5546/main/Images/Cover.jpg)
+![alt text](https://i.ibb.co/6gZCkCq/Untitled-1-1.jpg)
 #      Hey There👋I'm Roknuzzaman
 
 ## A passionate frontend developer from Bangladesh
