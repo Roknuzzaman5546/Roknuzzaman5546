@@ -5,13 +5,14 @@
 
 - 🌱 I’m currently learning ...next.js,Python
 - 📫 How to reach me: ...roknuzzamansojib78@gmail.com
+- 📫 Potfolio: ...https://roknuzzaman-portfolio.web.app
 - ⚡ Fun fact: ...I love travel & coding
 
 ## Connect with me:
 [![My Skills](https://skillicons.dev/icons?i=twitter,linkedin,instagram)](https://www.linkedin.com/in/roknuzzaman-sojib-b794552a3/)
 
 ## Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,mongo,nextjs,firebase,figma,nodejs,bootstrap,tailwind,expressjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,mongo,nextjs,firebase,figma,nodejs,bootstrap,tailwind,expressjs,laravel)](https://skillicons.dev)
 
 ![Roknuzzaman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roknuzzaman5546&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
